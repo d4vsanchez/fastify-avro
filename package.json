@@ -1,6 +1,6 @@
 {
   "name": "fastify-avro",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Plugin to provide an Avro middleware for Fastify",
   "main": "index.js",
   "scripts": {
