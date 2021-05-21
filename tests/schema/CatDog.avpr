@@ -1,0 +1,4 @@
+record CatDog {
+  string kind;
+  string name;
+}
